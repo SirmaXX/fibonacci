@@ -2,7 +2,7 @@
 ** Functional programming vs imperative programming
 *** Fibonacci implementation with functional programming
 
-#+BEGIN_SRC
+#+BEGIN_SRC go
 package main
 
 import "fmt"
